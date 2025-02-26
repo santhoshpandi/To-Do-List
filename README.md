@@ -1,6 +1,6 @@
 # To-Do List Application
 
-This is a simple and interactive To-Do List application built using `HTML`, `CSS`, and `JavaScript`. The app allows users to add, edit, and delete events with associated amounts, calculate the total amounts, and store the data in the browser's local storage for persistence. It includes a checkbox that, when selected, adds the respective event's amount to a `selected total`.
+This is a simple and interactive To-Do List application built using `HTML`, `CSS`, and `JavaScript`. The app allows users to add, edit, and delete events with associated amounts, calculate the total amounts, and store the data in the browser's local storage for persistence. It includes a checkbox that, when selected, adds the respective event's amount to a `Selected Amount`.
 
 ## Developed by
 
@@ -12,9 +12,8 @@ This project was inspired by the [Spendz](https://github.com/Rajas1010/Spendz) a
 
 
 ## Screenshots
-![sample](https://github.com/user-attachments/assets/c942d8ff-e43e-44a0-a634-7c4569dece31)
-
-![image](https://github.com/user-attachments/assets/0427b1c0-3948-4b2b-9cb7-7c626600ff8c)
+<img src="https://github.com/user-attachments/assets/c942d8ff-e43e-44a0-a634-7c4569dece31" width="500" height="auto" />
+<img src="https://github.com/user-attachments/assets/0427b1c0-3948-4b2b-9cb7-7c626600ff8c" width="500" height="auto" />
 
 
 ## Technologies Used
